@@ -117,6 +117,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Redirect when the song ends
     audio.addEventListener('ended', () => {
-        window.location.href = ' https://fiznwahid.github.io/Login/';  // Change to your desired URL
+        window.location.href = 'https://fiznwahid.github.io/HappyBirthday/';  // Change to your desired URL
     });
 });
